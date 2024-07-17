@@ -5,6 +5,8 @@
 def mileageCheck(mileage):
     try:
         int(mileage)
-        print("number")
+        print("User mileage is a number")
+        return mileage
     except:
         print("invalid input")
+        
