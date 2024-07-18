@@ -1,0 +1,212 @@
+{
+    "motorcycles": {
+      "kawasaki_er_5": {
+        "maintenance_tasks": [
+          {
+            "task": "kaasuttimien_synkronoinnin_tarkastus",
+            "description": "Kaasuttimien synkronoinnin tarkastus",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "joutokayntinopeuden_tarkastus",
+            "description": "Joutokäyntinopeuden tarkastus",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "kaasuvaijerien_tarkastus",
+            "description": "Kaasuvaijerien tarkastus",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "sytytystulppien_tarkastus",
+            "description": "Sytytystulppien tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "venttiilivalysten_tarkastus",
+            "description": "Venttiilivälysten tarkastus",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "kca_jarjestelman_tarkastus",
+            "description": "KCA-järjestelmän tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "ilmansuodattimen_tarkastus",
+            "description": "Ilmansuodattimen tarkastus",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "jarruletkun_tarkastus",
+            "description": "Jarruletkun tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "kytkinvaijerin_tarkastus",
+            "description": "Kytkinvaijerin tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "jarrupolkimen_asennon_ja_vapaaliikkeen_tarkastus",
+            "description": "Jarrupolkimen asennon ja vapaaliikkeen tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "jarruvalokatkaisimien_tarkastus",
+            "description": "Jarruvalokatkaisimien tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "jarrupalojen_ja_kenkien_tarkastus",
+            "description": "Jarrupalojen ja -kenkien tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "jarrunesteen_tarkastus",
+            "description": "Jarrunesteen tarkastus",
+            "interval_km": 6000,
+            "interval_months": "1"
+          },
+          {
+            "task": "jarrunesteen_vaihto",
+            "description": "Jarrunesteen vaihto",
+            "interval_km": 24000,
+            "interval_months": "24"
+          },
+          {
+            "task": "polttoaineletkun_tarkastus",
+            "description": "Polttoaineletkun tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "ohjauksen_tarkastus",
+            "description": "Ohjauksen tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "ketjun_kuluneisuuden_tarkastus",
+            "description": "Ketjun kuluneisuuden tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "pulttien_ja_mutterien_tiukkuuden_tarkastus",
+            "description": "Pulttien ja mutterien tiukkuuden tarkastus",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "renkaiden_tarkastus",
+            "description": "Renkaiden tarkastus",
+            "interval_km": 6000,
+            "interval_months": ""
+          },
+          {
+            "task": "moottorioljyn_vaihto",
+            "description": "Moottoriöljyn vaihto",
+            "interval_km": 6000,
+            "interval_months": "6"
+          },
+          {
+            "task": "oljynsuodattimen_vaihto",
+            "description": "Öljynsuodattimen vaihto",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "yleisvoitelu",
+            "description": "Yleisvoitelu",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "etuhaarukkaoljyn_vaihto",
+            "description": "Etuhaarukkaöljyn vaihto",
+            "interval_km": 24000,
+            "interval_months": "24"
+          },
+          {
+            "task": "etuhaarukan_oljyvuotojen_tarkastus",
+            "description": "Etuhaarukan öljyvuotojen tarkastus",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "takaiskunvaimentimien_oljyvuotojen_tarkastus",
+            "description": "Takaiskunvaimentimien öljyvuotojen tarkastus",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "keinuhaarukan_nivelpisteiden_voitelu",
+            "description": "Keinuhaarukan nivelpisteiden voitelu",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "jaahdytysnesteen_vaihto",
+            "description": "Jäähdytysnesteen vaihto",
+            "interval_km": 24000,
+            "interval_months": "24"
+          },
+          {
+            "task": "jaahdytysnestesuodattimen_puhdistus",
+            "description": "Jäähdytysnestesuodattimen puhdistus",
+            "interval_km": 6000,
+            "interval_months": "12"
+          },
+          {
+            "task": "jaahdyttimen_letkujen_tarkastus",
+            "description": "Jäähdyttimen letkujen tarkastus",
+            "interval_km": 12000,
+            "interval_months": ""
+          },
+          {
+            "task": "ohjauslaakerin_voitelu",
+            "description": "Ohjauslaakerin voitelu",
+            "interval_km": 24000,
+            "interval_months": "24"
+          },
+          {
+            "task": "jarrupaasylinterin_tiivisteiden_vaihto",
+            "description": "Jarrupääsylinterin tiivisteiden vaihto",
+            "interval_km": "",
+            "interval_months": "48"
+          },
+          {
+            "task": "jarrusatulan_tiivisteiden_vaihto",
+            "description": "Jarrusatulan tiivisteiden vaihto",
+            "interval_km": "",
+            "interval_months": "48"
+          },
+          {
+            "task": "ketjun_voitelu",
+            "description": "Ketjun voitelu",
+            "interval_km": 600,
+            "interval_months": ""
+          },
+          {
+            "task": "ketjun_kireyden_tarkastus",
+            "description": "Ketjun kireyden tarkastus",
+            "interval_km": "1000",
+            "interval_months": ""
+          }
+        ]
+      }
+    }
+  }

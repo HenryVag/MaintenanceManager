@@ -11,4 +11,4 @@ def maintenance_selection(mileage):
         maintenance_variable = mileage/6000
         upcoming_maintenance_mileage = int(maintenance_variable) * 6000 + 6000
     
-    print(upcoming_maintenance_mileage)
+    print(f'Next maintenance to be performed at {upcoming_maintenance_mileage}km')
