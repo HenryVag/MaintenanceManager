@@ -203,7 +203,7 @@
           {
             "task": "ketjun_kireyden_tarkastus",
             "description": "Ketjun kireyden tarkastus",
-            "interval_km": "1000",
+            "interval_km": 1000,
             "interval_months": ""
           }
         ]
