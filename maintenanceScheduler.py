@@ -2,6 +2,7 @@
 #Description:
 
 import json
+from inputChecks import mileageCheck
 
 class MaintenanceScheduler:
 
@@ -38,3 +39,8 @@ class MaintenanceScheduler:
         for task in self.maintenance_tasks:
             if task["interval_km"] != "" and self.upcoming_maintenance_mileage % task["interval_km"] == 0 :
                 print(task)
+
+    def get_user_mileage(self):
+        mileage = input("Enter driven kilometers:")
+        if mileageCheck(mileage):
+            return mileage
