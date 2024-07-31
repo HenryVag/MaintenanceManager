@@ -2,7 +2,6 @@
 #Description: Main file for maintenance manager application
 
 from inputChecks import mileageCheck
-from maintenanceSelectionLogic import maintenance_selection
 from maintenanceScheduler import MaintenanceScheduler
 
 
@@ -13,7 +12,7 @@ def main():
         user_mileage = app.get_user_mileage()
         app.maintenance_selection(user_mileage)
         app.load_tasks()
-        app.print_upcoming_tasks()
+        app.print_tasks()
 
 
 
